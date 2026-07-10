@@ -41,6 +41,7 @@ AI-FLUENCY-PROJECT/
 │
 ├── app.py
 ├── data/
+|   └── visualizations.py
 ├── src/
 │   ├── cleaning.py
 │   ├── metrics.py
